@@ -3,4 +3,5 @@ Smart farming is a management concept focused on providing the agricultural indu
 -Sensors for soil scanning and water, light, humidity and temperature management.
 -Smart irrigation system
 -remote herd supervision using a camera and web page
+-Monitor the temperature of the milk container
 -others options
